@@ -1,6 +1,14 @@
 <html>
- <hrad>
+ <head>
  </head>
-  <body>こんにちは！
+  <body>
+   <script>
+    let x=10
+    console=log(x)
+    console=log("さようなら")
+    console=log("バイバイ")
+   </script>
+  
+  こんにちは！
   </body>
 <html>
